@@ -1,0 +1,7 @@
+asgiref
+Django
+Pillow
+pytz
+sqlparse
+celery
+django-celery-beat
